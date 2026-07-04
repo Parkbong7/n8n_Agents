@@ -6,7 +6,7 @@ An always-on Telegram bot that helps users search for products on Amazon India a
 ![Jafer workflow](./assets/workflow.png)
 
 ## Sample Output
-![Sample conversation](./assets/sample-output.png)
+![Sample conversation](./assets/sample_output.png)
 
 **Live**: Runs as a Telegram bot (message-based, not a public web link)
 **Stack**: n8n, Google Gemini 2.5 Flash, Groq Whisper (voice transcription), ScraperAPI, Telegram Bot API
