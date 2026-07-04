@@ -4,6 +4,12 @@ An automated Gmail-to-Discord pipeline that watches for placement, internship, a
 
 **Stack**: n8n, Gmail API, Google Gemini, Discord Webhooks
 
+## Workflow 
+![Placement email alert workflow](./assets/workflow.png)
+
+## Sample Output
+![Sample Discord alert](./assets/sample_output.png)
+
 ## What it does
 
 1. Polls Gmail every minute for new mail.
